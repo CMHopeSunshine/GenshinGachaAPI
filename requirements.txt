@@ -1,0 +1,7 @@
+fastapi>=0.79.0
+httpx>=0.23.0
+numpy>=1.23.1
+Pillow>=9.2.0
+uvicorn>=0.18.2
+starlette>=0.19.1
+pydantic>=1.9.1
